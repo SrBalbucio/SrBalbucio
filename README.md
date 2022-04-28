@@ -1,5 +1,5 @@
 ### Gatão e Dev, sou eu.
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/SrBalbucio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrBalbucio&show_icons=true&theme=highcontrast&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&layout=compact&theme=highcontrast"/>
