@@ -26,7 +26,7 @@ Neste perfil você verá código de altissímo nível, um dev gatão e "bombas" 
 Nunca estou parado, sempre com um projeto público ou não na mão para desenvolver.
 <div style="display: inline_block">
   <a href="https://github.com/SrBalbucio">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=blueberry&preferLogin=false">    <img height="180em" alt="SrBalbucio's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SrBalbucio?cardType=level&theme=blueberry&preferLogin=false" />  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&layout=compact&theme=highcontrast"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srbalbucio&" alt="srbalbucio" /></p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=midnight-purple&preferLogin=false">    <img height="180em" alt="SrBalbucio's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SrBalbucio?cardType=level&preferLogin=false" />  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&layout=compact&langs_count=10&theme=midnight-purple"/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srbalbucio&theme=midnight-purple" alt="srbalbucio" /></p>
 </div>
