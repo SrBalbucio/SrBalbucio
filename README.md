@@ -23,7 +23,7 @@ Neste perfil você verá código de altissímo nível, um dev gatão e "bombas" 
 </p>
 
 ## Minhas estatísticas:
-Nunca estou parado, sempre com um projeto público ou não na mão para desenvolver.
+Nunca estou parado, sempre com um projeto público (ou não) na mão para desenvolver.
 <div style="display: inline_block">
   <a href="https://github.com/SrBalbucio">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=midnight-purple&preferLogin=false">    <img height="180em" alt="SrBalbucio's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SrBalbucio?cardType=level&preferLogin=false" />  </a>
