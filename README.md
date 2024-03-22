@@ -17,6 +17,9 @@ Full-Stack, Desktop and Mobile Developer for over 4 years, living in Brazil in S
 <a href="https://www.github.com/SrBalbucio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <img src="https://komarev.com/ghpvc/?username=srbalbucio&label=Profile%20views&color=0e75b6&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="srbalbucio" />
 
+> Yes, Java and Duke had a [comic](https://github.com/jcp-org/jcp-ec/blob/master/files/AmazingAdventuresOfDuke.pdf).
+![image](https://github.com/SrBalbucio/SrBalbucio/assets/90042700/bd262f89-f48a-4257-b179-67c4cb533653)
+
 ### Skills
 
 
@@ -147,10 +150,15 @@ src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-th
 ![Stats](https://github-profile-trophy.vercel.app/?username=srbalbucio&theme=algolia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
 
 
-### GitHub Stats
+## GitHub Stats
 
+### Top Languages (Most used languages by time and repository)
+
+![SrBalbucio's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Usage%20%time%20%this%20%weak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Level (level based on general statistics)
 ![SrBalbucio's github stats](https://github-readme-stats.vercel.app/api?username=SrBalbucio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true)
-![SrBalbucio's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrBalbucio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrBalbucio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%">
 [![SrBalbucio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrBalbucio&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
