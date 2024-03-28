@@ -154,11 +154,16 @@ src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-th
 
 ### Top Languages (Most used languages by time and repository)
 
-![SrBalbucio's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Usage%20%time%20%this%20%weak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used&layout=compact" width="50%" height="190px" style="object-fit: cover">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SrBalbucio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Usage%20%time%20%this%20%weak&layout=compact" width="48%" height="190px" style="object-fit: cover">
+</p>
 
 ### Level (level based on general statistics)
-![SrBalbucio's github stats](https://github-readme-stats.vercel.app/api?username=SrBalbucio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrBalbucio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SrBalbucio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=true" width="50%" height="190px" style="object-fit: cover">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrBalbucio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" height="190px" style="object-fit: cover">
+</p>
+
 [![SrBalbucio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SrBalbucio&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
