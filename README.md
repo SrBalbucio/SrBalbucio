@@ -139,6 +139,9 @@ src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-th
                 <a href="https://cordova.apache.org" target="_blank" rel="noreferrer"><img
                         src="https://cordova.apache.org/static/img/cordova_bot.png" alt="cordova" width="40"
                         height="40" /></a>
+                <a href="https://www.antlr.org/" target="_blank" rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/mike-lischke/vscode-antlr4/master/misc/antlr-logo.png" alt="Antlr4" width="40"
+                        height="40" /></a>
         </p>
 
 ### Socials
