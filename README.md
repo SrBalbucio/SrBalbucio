@@ -16,6 +16,7 @@ Full-Stack, Desktop and Mobile Developer for over 4 years, living in Brazil in S
 
 <a href="https://www.github.com/SrBalbucio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <img src="https://komarev.com/ghpvc/?username=srbalbucio&label=Profile%20views&color=0e75b6&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="srbalbucio" />
+[![wakatime](https://wakatime.com/badge/user/018e1eb4-f981-4f71-a83f-54a2d3a7eba6.svg)](https://wakatime.com/@018e1eb4-f981-4f71-a83f-54a2d3a7eba6)
 
 > Yes, Java and Duke had a [comic](https://github.com/jcp-org/jcp-ec/blob/master/files/AmazingAdventuresOfDuke.pdf).
 ![image](https://github.com/SrBalbucio/SrBalbucio/assets/90042700/bd262f89-f48a-4257-b179-67c4cb533653)
