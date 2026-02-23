@@ -151,7 +151,7 @@ src="https://img.shields.io/github/followers/SrBalbucio?logo=github&style=for-th
 
 ### Achievements
 
-![Stats](https://github-profile-trophy.vercel.app/?username=srbalbucio&theme=algolia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
+![Stats](https://trophy.ryglcloud.net/?username=srbalbucio&theme=algolia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
 
 
 ## GitHub Stats
