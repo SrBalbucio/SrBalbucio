@@ -67,8 +67,8 @@ Full-stack, desktop and mobile developer with 4+ years of experience, based in S
 
 - GitHub: [@SrBalbucio](https://github.com/SrBalbucio)
 - LinkedIn: [srbalbucio](https://www.linkedin.com/in/srbalbucio)
-- YouTube: [@sr.balbucio8913](https://www.youtube.com/@sr.balbucio8913)
-- Discord: [417356807669940224](https://discord.com/users/417356807669940224)
+- YouTube: [@SrBalbucio](https://www.youtube.com/@sr.balbucio8913)
+- Discord: [srbalbucio](https://discord.com/users/417356807669940224)
 - Dev.to: [@srbalbucio](https://www.dev.to/srbalbucio)
 - CodePen: [@SrBalbucio](https://www.codepen.io/SrBalbucio)
 
